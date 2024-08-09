@@ -1,20 +1,20 @@
 #page title
-page_title                                :                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Apolyomai                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6448866508                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6504982905                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : gr                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.iraklis.Chargit                                          # Enter Google Play Store URL.
+playstore_link                            : #https://play.google.com/store/apps/details?id=com.iraklis.Chargit                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon_header                           : assets/appicon-rounded.png
-app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover EV Chargers
+app_icon                                  : assets/appicon-rounded.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Apolyomai                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Δωρεάν                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Ο μετρητής απόλυσής σου!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,53 +24,53 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Iraklis Eleftheriadis
 your_link                                 :                      
 your_city                                 :                                 
-email_address                             : info@oneplug.org
-facebook_username                         : oneplugapp                                         
-instagram_username                        : oneplug_app
-twitter_username                          : oneplugapp
-github_username                           : 
-youtube_username                          : oneplug_app
-mastodon_link                             : 
+email_address                             : apolyomai.app@gmail.com
+facebook_username                         : apolyomai
+instagram_username                        : apolyomai
+twitter_username                          : apolyomai
+github_username                           :
+youtube_username                          : apolyomai
+mastodon_link                             :
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Global Data
-    description                           : Find EV Chargers from all around the world.
-    fontawesome_icon_name                 : globe
+  - title                                 : Μετρητής Στρατού
+    description                           : Μέτρα τα υπολειπόμενα ΚΣ σου.
+    fontawesome_icon_name                 : clock
     
-  - title                                 : Add Locations
-    description                           : Add any EV Charging station on the map.
+  - title                                 : Προσθήκη Υπηρεσιών
+    description                           : Πρόσθεσε όλες τις υπηρεσίες σου.
     fontawesome_icon_name                 : plus
 
-  - title                                 : Search
-    description                           : Search for any location in the world.
-    fontawesome_icon_name                 : search
+  - title                                 : Προσθήκη Αδειών
+    description                           : Πρόσθεσε όλες τις άδειές σου.
+    fontawesome_icon_name                 : plus
 
-  - title                                 : Filters
-    description                           : Apply filters to show results based on your needs.
-    fontawesome_icon_name                 : filter
+  - title                                 : Προσθήκη Κρατήσεων
+    description                           : Πρόσθεσε όλες τις κρατήσεις σου.
+    fontawesome_icon_name                 : plus
 
-  - title                                 : Directions
-    description                           : Get directions to any EV Charger.
-    fontawesome_icon_name                 : road
+  - title                                 : Προσθήκη Φυλακών
+    description                           : Πρόσθεσε όλες τις φυλακές σου.
+    fontawesome_icon_name                 : plus
 
-  - title                                 : Favourites
-    description                           : Add any EV Charger to your favourites list for quick access.
-    fontawesome_icon_name                 : star
+  - title                                 : Ημερολόγιο
+    description                           : Παρακολούθησε όλες τις πληροφορίες της θητείας σου.
+    fontawesome_icon_name                 : calendar
 
-  - title                                 : Leaderboard
-    description                           : Contribute to our community and earn points.
-    fontawesome_icon_name                 : trophy
+  - title                                 : Στατιστικά
+    description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
+    fontawesome_icon_name                 : chart-simple
 
-  - title                                 : Dark Mode
-    description                           : Enjoy our app in dark mode.
+  - title                                 : Σκοτεινή Λειτουργία
+    description                           : Απολαύστε την εφαρμογή μας σε σκοτεινή λειτουργία.
     fontawesome_icon_name                 : moon
 
-  - title                                 : Light Mode
-    description                           : Enjoy our app in light mode.
+  - title                                 : Φωτεινή Λειτουργία
+    description                           : Απολαύστε την εφαρμογή μας σε φωτεινή λειτουργία.
     fontawesome_icon_name                 : sun
 
   - title                                 : # New Feature Title
@@ -80,7 +80,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#00A0EA"
+topbar_color                              : "#4D702F"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
@@ -92,7 +92,7 @@ device_color                              : black                               
 
 body_background_color                     : "#000000"
 
-link_color                                : "#00A0EA"
+link_color                                : "#4D702F"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -101,10 +101,10 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#808080"
 
-feature_icons_foreground_color            : "#00A0EA"
+feature_icons_foreground_color            : "#4D702F"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#00A0EA"
+social_icons_foreground_color             : "#4D702F"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#808080"

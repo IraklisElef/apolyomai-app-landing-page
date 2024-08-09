@@ -63,7 +63,7 @@ features                                  :
 
   - title                                 : Στατιστικά
     description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
-    fontawesome_icon_name                 : chart
+    fontawesome_icon_name                 : chart-pie
 
   - title                                 : Σκοτεινή Λειτουργία
     description                           : Απολαύστε την εφαρμογή μας σε σκοτεινή λειτουργία.

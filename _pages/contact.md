@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Επικοινωνία
 include_in_header: true
 ---
-# You can email us at info@oneplug.org
+# Μπορείται να μας στείλετε email στο info@apolyomai.com

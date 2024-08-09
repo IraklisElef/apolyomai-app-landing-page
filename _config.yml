@@ -21,10 +21,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Iraklis Eleftheriadis
+your_name                                 : Ηρακλή Ελευθεριάδη
 your_link                                 :                      
 your_city                                 :                                 
-email_address                             : apolyomai.app@gmail.com
+email_address                             : info@apolyomai.com
 facebook_username                         : apolyomai
 instagram_username                        : apolyomai
 twitter_username                          : apolyomai
@@ -63,7 +63,7 @@ features                                  :
 
   - title                                 : Στατιστικά
     description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : chart
 
   - title                                 : Σκοτεινή Λειτουργία
     description                           : Απολαύστε την εφαρμογή μας σε σκοτεινή λειτουργία.

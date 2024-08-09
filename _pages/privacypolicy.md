@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Πολιτική Απορρήτου
 include_in_header: true
 ---
 **Last updated** 

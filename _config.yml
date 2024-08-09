@@ -1,5 +1,5 @@
 #page title
-page_title                                : Apolyomai                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Απολύομαι                                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6504982905                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 
 app_icon_header                           : assets/appicon-rounded.png
 app_icon                                  : assets/appicon-rounded.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Apolyomai                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Απολύομαι                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Δωρεάν                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Ο μετρητής απόλυσής σου!
 
@@ -63,7 +63,7 @@ features                                  :
 
   - title                                 : Στατιστικά
     description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-column
 
   - title                                 : Σκοτεινή Λειτουργία
     description                           : Απολαύστε την εφαρμογή μας σε σκοτεινή λειτουργία.

@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Ηρακλή Ελευθεριάδη
-your_link                                 :                      
+your_link                                 : https://www.irakliseleftheriadis.com
 your_city                                 :                                 
 email_address                             : info@apolyomai.com
 facebook_username                         : apolyomai
@@ -66,11 +66,11 @@ features                                  :
     fontawesome_icon_name                 : chart-pie
 
   - title                                 : Σκοτεινή Λειτουργία
-    description                           : Απολαύστε την εφαρμογή μας σε σκοτεινή λειτουργία.
+    description                           : Απόλαυσε την εφαρμογή μας σε σκοτεινή λειτουργία.
     fontawesome_icon_name                 : moon
 
   - title                                 : Φωτεινή Λειτουργία
-    description                           : Απολαύστε την εφαρμογή μας σε φωτεινή λειτουργία.
+    description                           : Απόλαυσε την εφαρμογή μας σε φωτεινή λειτουργία.
     fontawesome_icon_name                 : sun
 
   - title                                 : # New Feature Title

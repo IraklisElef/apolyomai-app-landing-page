@@ -41,20 +41,8 @@ features                                  :
     description                           : Μέτρα τα υπολειπόμενα ΚΣ σου.
     fontawesome_icon_name                 : clock
     
-  - title                                 : Προσθήκη Υπηρεσιών
-    description                           : Πρόσθεσε όλες τις υπηρεσίες σου.
-    fontawesome_icon_name                 : plus
-
-  - title                                 : Προσθήκη Αδειών
-    description                           : Πρόσθεσε όλες τις άδειές σου.
-    fontawesome_icon_name                 : plus
-
-  - title                                 : Προσθήκη Κρατήσεων
-    description                           : Πρόσθεσε όλες τις κρατήσεις σου.
-    fontawesome_icon_name                 : plus
-
-  - title                                 : Προσθήκη Φυλακών
-    description                           : Πρόσθεσε όλες τις φυλακές σου.
+  - title                                 : Προσθήκη Πληροφοριών
+    description                           : Πρόσθεσε όλες τις υπηρεσίες, άδειες, κρατήσεις και φυλακές σου.
     fontawesome_icon_name                 : plus
 
   - title                                 : Ημερολόγιο
@@ -64,6 +52,18 @@ features                                  :
   - title                                 : Στατιστικά
     description                           : Ανάλυσε όλες τις πληροφορίες της θητείας σου.
     fontawesome_icon_name                 : chart-pie
+    
+  - title                                 : Υπηρεσίες
+    description                           : Πρόσθεσε δικές σου και επεξεργάσου τις υπάρχουσες.
+    fontawesome_icon_name                 : shield-halved
+    
+  - title                                 : Στρατιωτικός Εξοπλισμός
+    description                           : Αποθήκευσε στοιχεία στρατιωτικού εξοπλισμού όπως τον αριθμό όπλου ή κλείστρου.
+    fontawesome_icon_name                 : toolbox
+
+  - title                                 : Ιεραρχίες
+    description                           : Ενημερώσου σχετικά με την ιεραρχία του στρατού ξηράς, πολεμικού ναυτικού και πολεμικής αεροπορίας.
+    fontawesome_icon_name                 : sitemap
 
   - title                                 : Σκοτεινή Λειτουργία
     description                           : Απόλαυσε την εφαρμογή μας σε σκοτεινή λειτουργία.

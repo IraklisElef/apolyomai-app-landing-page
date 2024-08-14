@@ -55,7 +55,7 @@ features                                  :
     
   - title                                 : Υπηρεσίες
     description                           : Πρόσθεσε δικές σου και επεξεργάσου τις υπάρχουσες.
-    fontawesome_icon_name                 : shield-halved
+    fontawesome_icon_name                 : shield
     
   - title                                 : Στρατιωτικός Εξοπλισμός
     description                           : Αποθήκευσε στοιχεία στρατιωτικού εξοπλισμού όπως τον αριθμό όπλου ή κλείστρου.

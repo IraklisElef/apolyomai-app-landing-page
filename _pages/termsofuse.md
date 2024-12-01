@@ -4,7 +4,7 @@ title: Όροι Χρήσης
 include_in_header: true
 ---
 **Last updated**
-November 24, 2024
+December 01, 2024
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>

@@ -4,7 +4,7 @@ title: Όροι Χρήσης
 include_in_header: true
 ---
 **Last updated**
-August 10, 2024
+November 24, 2024
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
@@ -116,11 +116,16 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 
 ## 4. PURCHASES AND PAYMENT
 <br>
-We accept the following forms of payment:-  Through Apple-  Through Google
+We accept the following forms of payment:
+
+Through Apple
+Through Google
 
 You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. You agree to pay all charges at the prices then in effect for your purchases and any applicable shipping fees, and you authorise us to charge your chosen payment provider for any such amounts upon placing your order. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
 
 We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgement, appear to be placed by dealers, resellers, or distributors.
+
+By using our app and making in-app purchases, you acknowledge and consent to our sharing of data related to your usage and consumption of purchased content with Apple. This sharing is conducted as part of our commitment to addressing and resolving refund requests efficiently. The data we may provide to Apple includes information about how you have accessed, interacted with, and utilized the purchased content within our app. The purpose of sharing this information is to assist Apple in making an informed and accurate decision regarding your refund request. Please be assured that we handle this data with the utmost care and ensure that any sharing is conducted strictly in compliance with Apple’s policies and guidelines. Such data is shared only to the extent necessary to facilitate the processing of your refund request and is not used for any other purpose. Your privacy and the security of your data remain a top priority for us throughout this process.
 
 ## 5. SUBSCRIPTIONS
 <br>

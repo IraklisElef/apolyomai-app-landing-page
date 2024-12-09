@@ -65,13 +65,13 @@ features                                  :
     description                           : Ενημερώσου σχετικά με την ιεραρχία του στρατού ξηράς, πολεμικού ναυτικού και πολεμικής αεροπορίας.
     fontawesome_icon_name                 : sitemap
 
-  - title                                 : Σκοτεινή Λειτουργία
-    description                           : Απόλαυσε την εφαρμογή μας σε σκοτεινή λειτουργία.
-    fontawesome_icon_name                 : moon
+  - title                                 : Επιτεύγματα
+    description                           : Ξεκλείδωσε διάφορα επιτεύγματα κατά την διάρκεια της θητείας σου.
+    fontawesome_icon_name                 : trophy
 
-  - title                                 : Φωτεινή Λειτουργία
-    description                           : Απόλαυσε την εφαρμογή μας σε φωτεινή λειτουργία.
-    fontawesome_icon_name                 : sun
+  - title                                 : Στρατιωτική Αργκό
+    description                           : Εξερεύνησε και μάθε στρατιωτική αργκό για να παραμείνεις συνδεδεμένος με τη μοναδική κουλτούρα της στρατιωτικής ζωής.
+    fontawesome_icon_name                 : font
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

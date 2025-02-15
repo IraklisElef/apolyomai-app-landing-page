@@ -1,6 +1,7 @@
 google.com, pub-6717091059012593, DIRECT, f08c47fec0942fa0
 facebook.com, 406752729184545, DIRECT, c3e20eee3f780d68
 inmobi.com, 9da7c5ba1f2e41cab28902d49f8c8e24, DIRECT, 83e75a7ae333ca9d
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b

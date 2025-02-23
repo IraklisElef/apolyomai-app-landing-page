@@ -262,7 +262,7 @@ G. Geolocation data
 
 Device location
 
-NO
+YES
 
 H. Audio, electronic, sensory, or similar information
 

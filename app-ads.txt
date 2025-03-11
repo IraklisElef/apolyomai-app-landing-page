@@ -141,3 +141,5 @@ freewheel.tv, 1599109, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 themediasense.com, 1147, RESELLER
 mobismarter.com, 3294, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3

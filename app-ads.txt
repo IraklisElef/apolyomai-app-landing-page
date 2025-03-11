@@ -3,6 +3,11 @@ facebook.com, 406752729184545, DIRECT, c3e20eee3f780d68
 inmobi.com, 9da7c5ba1f2e41cab28902d49f8c8e24, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 applovin.com, dceb9d2019b5c5e5bb61069c0f080a42, DIRECT
+onetag.com, 92a441f228da12c, DIRECT
+onetag.com, 92a441f228da12c-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER

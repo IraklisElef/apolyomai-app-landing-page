@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated** 
-August 10, 2024
+April 02, 2025
 
 This privacy notice for Iraklis Eleftheriadis ('we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
 
@@ -59,6 +59,25 @@ Want to learn more about what we do with any information we collect? Review the 
 Personal information you disclose to us
 
 In Short: We collect personal information that you provide to us.
+
+We collect certain data to provide a better and more personalized experience for our users. The following types of data are collected:
+
+When using the app, you may provide certain information, including:
+
+Your email (if applicable)
+Your army arm or corps
+Your armed force
+Your city of service
+Your municipality of service
+Your country of service
+Your report date
+Your discharge date
+Your ESSO
+Your rank (whether you are a Private or an OCR)
+Your service type (whether you are serving a term or your are an executive)
+Your operating system
+
+This data is collected anonymously and is used to enhance your experience within the app, including providing personalized features and exclusive offers.
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
@@ -152,6 +171,13 @@ In Short: We are not responsible for the safety of any information that you shar
 
 The Services, including our offer wall, may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
+Your data is not shared with third parties for marketing purposes. However, we may use third-party services to store, process, or analyze data to improve app functionality. These include:
+
+Firebase (Google LLC) – Used for database storage and analytics. https://policies.google.com/privacy
+Google AdMob (if applicable) – Displays ads in the app. https://policies.google.com/technologies/ads
+
+These services comply with GDPR and CCPA requirements, and we ensure that your data remains secure and anonymous.
+
 ## 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 <br>
 In Short: We may use cookies and other tracking technologies to collect and store your information.
@@ -172,7 +198,7 @@ We may share your information with Google Analytics to track and analyse the use
 <br>
 In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this privacy notice unless otherwise required by law.
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 ## 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 <br>
@@ -403,6 +429,6 @@ Greece
 
 ## 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br>
-You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
+You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request at contact@irakliseleftheriadis.com.
 <br>
 <br>

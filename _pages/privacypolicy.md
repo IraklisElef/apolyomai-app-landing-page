@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated** 
-April 02, 2025
+April 05, 2025
 
 This privacy notice for Iraklis Eleftheriadis ('we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
 

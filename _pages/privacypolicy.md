@@ -65,17 +65,29 @@ We collect certain data to provide a better and more personalized experience for
 When using the app, you may provide certain information, including:
 
 Your email (if applicable)
+
 Your army arm or corps
+
 Your armed force
+
 Your city of service
+
 Your municipality of service
+
 Your country of service
+
 Your report date
+
 Your discharge date
+
 Your ESSO
+
 Your rank (whether you are a Private or an OCR)
+
 Your service type (whether you are serving a term or your are an executive)
+
 Your operating system
+
 
 This data is collected anonymously and is used to enhance your experience within the app, including providing personalized features and exclusive offers.
 

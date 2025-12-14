@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Όροι Χρήσης
+title: Terms of Use
 include_in_header: true
 ---
 **Last updated**

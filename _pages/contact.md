@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Επικοινωνία
+title: Contact
 include_in_header: true
 ---
-# Μπορείται να μας στείλετε email στο info@apolyomai.com
+# You can email us at info@apolyomai.com

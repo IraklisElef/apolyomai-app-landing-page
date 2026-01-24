@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: true
 ---
 **Last updated**
-October 09, 2025
+January 24, 2026
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
@@ -228,6 +228,7 @@ Your Contributions do not otherwise violate, or link to material that violates, 
 Any use of the Services in violation of the foregoing violates these Legal Terms and may result in, among other things, termination or suspension of your rights to use the Services.
 
 Community Posts and Reporting
+
 Users may submit short posts (“Community Posts”) that are viewable by other users. By submitting a Community Post, you represent and warrant that the post does not violate the “Prohibited Activities” or applicable law, including but not limited to content that is illegal, harassing, defamatory, abusive, discriminatory, incites violence, or otherwise objectionable.
 
 Community Posts may be reported by other users for inappropriate content. The Services use an automated reporting system: if a Community Post receives five (5) or more reports, the post will be hidden from other users’ feeds. Posts are not deleted, and users are not banned on the basis of reports alone. The post owner may still view their own post. This process is automatic, and no guarantee is made that reported content will be reviewed by a human moderator. Report data is stored using a device identifier and is not linked to personal information.

@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: true
 ---
 **Last updated**
-January 24, 2026
+May 06, 2026
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
@@ -232,6 +232,32 @@ Community Posts and Reporting
 Users may submit short posts (“Community Posts”) that are viewable by other users. By submitting a Community Post, you represent and warrant that the post does not violate the “Prohibited Activities” or applicable law, including but not limited to content that is illegal, harassing, defamatory, abusive, discriminatory, incites violence, or otherwise objectionable.
 
 Community Posts may be reported by other users for inappropriate content. The Services use an automated reporting system: if a Community Post receives five (5) or more reports, the post will be hidden from other users’ feeds. Posts are not deleted, and users are not banned on the basis of reports alone. The post owner may still view their own post. This process is automatic, and no guarantee is made that reported content will be reviewed by a human moderator. Report data is stored using a device identifier and is not linked to personal information.
+
+### 8A. PLATOON FEATURES AND CONDUCT
+<br>
+The Services include a Platoon feature that allows users to create or join private groups, send predefined messages and pokes to other group members, and participate in polls created by the group administrator. By using the Platoon feature, you agree to the following:
+
+Group Participation. You may create one platoon or join an existing platoon using an invite code. Each platoon may have a maximum of 40 members. You may only be a member of one platoon at a time. To join or create a platoon, you must set a nickname that is between 3 and 20 characters.
+
+Messages and Pokes. You may send predefined messages and pokes to other members of your platoon. These messages are selected from a fixed set of options provided by the app and cannot contain custom or user-written text. All messages are visible to all members of the platoon through a shared activity feed. Messages are ephemeral and are automatically deleted after 24 hours. By sending a message or poke, you consent to the recipient receiving a push notification (if they have notifications enabled) containing the message content and your nickname.
+
+Polls. Only the platoon administrator may create polls. Two types of polls are available: voting on a platoon member and selecting from custom options. Each platoon may have one active poll at a time. Polls expire automatically after 24 hours. All members may vote, change their vote, or remove their vote at any time while the poll is active. Vote results and voter identities are visible to all platoon members who have voted. The administrator may delete an active poll at any time.
+
+Administrator Role. The member who creates a platoon becomes its administrator. The administrator may rename the platoon, remove members, create polls, delete active polls, and transfer the administrator role to another member. Before leaving, an administrator with more than one remaining member must either transfer the administrator role or the system will prompt them to do so. If the administrator is the last remaining member, leaving will permanently dissolve the platoon and delete all associated data.
+
+Prohibited Conduct in Platoons. In addition to the general Prohibited Activities outlined in Section 7, you agree not to use the Platoon feature to:
+
+Harass, bully, intimidate, or target any member through excessive or unwanted messages or pokes
+Create platoons or set nicknames with offensive, discriminatory, or inappropriate content
+Create polls intended to harass, humiliate, or single out a member in a harmful way
+Abuse the administrator role to unfairly remove members or disrupt the group
+Attempt to circumvent message throttling or other anti-spam protections
+
+Data Visibility. By joining a platoon, you acknowledge that certain information about you — including your nickname, rank, armed force, branch, service progress, and last active time — will be visible to all other members of the platoon. Messages you send and votes you cast are visible to all platoon members. You are responsible for choosing a nickname that you are comfortable sharing with others.
+
+Removal and Departure. The administrator may remove any member from the platoon at any time without prior notice. You may leave a platoon at any time. Upon leaving or being removed, your membership data is deleted immediately. Activity messages and poll votes associated with your nickname may remain visible to other members until they expire after 24 hours. If a member who voted on a poll leaves the platoon, their vote still counts but their name may appear as "Unknown member" in the voter list.
+
+No Guarantee of Availability. The Platoon feature, including activity messages, polls, and push notifications, is provided on an as-is basis. We do not guarantee that messages or notifications will be delivered successfully, that data will be retained for any specific period, or that the feature will be available without interruption.
 
 ## 9. CONTRIBUTION LICENCE
 <br>

@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: true
 ---
 **Last updated**
-May 06, 2026
+May 15, 2026
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
@@ -203,7 +203,7 @@ Sell or otherwise transfer your profile.
 
 ## 8. USER GENERATED CONTRIBUTIONS
 <br>
-The Services does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, 'Contributions'). Contributions may be viewable by other users of the Services and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Services' Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:   The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+The Services may offer users the ability to submit or post content, including through the Platoon group chat feature. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, 'Contributions'). Contributions may be viewable by other users of the Services and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Services' Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:   The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
 
 You are the creator and owner of or have the necessary licences, rights, consents, releases, and permissions to use and to authorise us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
 
@@ -243,6 +243,30 @@ Messages and Pokes. You may send predefined messages and pokes to other members 
 
 Polls. Only the platoon administrator may create polls. Two types of polls are available: voting on a platoon member and selecting from custom options. Each platoon may have one active poll at a time. Polls expire automatically after 24 hours. All members may vote, change their vote, or remove their vote at any time while the poll is active. Vote results and voter identities are visible to all platoon members who have voted. The administrator may delete an active poll at any time.
 
+Group Chat. Each platoon includes a group chat where members can send free-text messages to the entire group. By using the group chat, you agree to the following:
+
+(a) All chat messages are visible to all current members of your platoon. There are no private or direct messages within the chat.
+
+(b) Chat messages are ephemeral and are automatically deleted after 24 hours by a server-side cleanup process. We do not provide message history beyond this 24-hour window.
+
+(c) Chat messages are subject to the same community reporting mechanism described in Section 8. If a chat message receives five (5) or more reports from unique platoon members, the message will be automatically hidden from the chat. Users who accumulate multiple hidden messages may be temporarily restricted from using the chat feature.
+
+(d) You are solely responsible for the content of your chat messages. We do not pre-screen, review, or moderate chat messages before they are posted.
+
+(e) In addition to the general Prohibited Activities outlined in Section 7 and the Platoon-specific prohibitions below, you specifically agree not to use the group chat to:
+
+- Share military-sensitive information, including but not limited to: unit names or codes, base locations, guard schedules, operational movements, deployment details, or any information that could be classified or restricted under the military laws of your country of service, including but not limited to Greek military law (Στρατιωτικός Ποινικός Κώδικας), the military regulations of the Republic of Cyprus, Turkish military penal code (Askeri Ceza Kanunu), and Finnish military legislation (Asevelvollisuuslaki)
+
+- Share personal information of other persons, including full names, phone numbers, addresses, or identification numbers, without their explicit consent
+
+- Send spam, repetitive messages, or disruptive content that interferes with other members' use of the chat
+
+- Distribute illegal content, including but not limited to content that incites violence, constitutes hate speech, or violates applicable laws
+
+(f) We reserve the right to suspend or permanently revoke a user's access to the group chat feature, or to remove a user from a platoon entirely, if we determine, in our sole discretion, that the user has violated these terms.
+
+(g) The group chat is provided on an as-is basis. We do not guarantee message delivery, message ordering, or uninterrupted availability of the chat feature.
+
 Administrator Role. The member who creates a platoon becomes its administrator. The administrator may rename the platoon, remove members, create polls, delete active polls, and transfer the administrator role to another member. Before leaving, an administrator with more than one remaining member must either transfer the administrator role or the system will prompt them to do so. If the administrator is the last remaining member, leaving will permanently dissolve the platoon and delete all associated data.
 
 Prohibited Conduct in Platoons. In addition to the general Prohibited Activities outlined in Section 7, you agree not to use the Platoon feature to:
@@ -252,6 +276,8 @@ Create platoons or set nicknames with offensive, discriminatory, or inappropriat
 Create polls intended to harass, humiliate, or single out a member in a harmful way
 Abuse the administrator role to unfairly remove members or disrupt the group
 Attempt to circumvent message throttling or other anti-spam protections
+
+Share military-sensitive information through the group chat or any other Platoon feature, including unit identifiers, base locations, guard schedules, or operational details, in violation of the military laws of your country of service
 
 Data Visibility. By joining a platoon, you acknowledge that certain information about you — including your nickname, rank, armed force, branch, service progress, and last active time — will be visible to all other members of the platoon. Messages you send and votes you cast are visible to all platoon members. You are responsible for choosing a nickname that you are comfortable sharing with others.
 

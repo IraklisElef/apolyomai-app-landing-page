@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated** 
-May 06, 2026
+May 15, 2026
 
 This privacy notice for Iraklis Eleftheriadis ('we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
 
@@ -88,16 +88,22 @@ Your service type (whether you are serving a term or your are an executive)
 
 Your operating system
 
-Platoon and Group Features
+Platoon and Group Features 
 When you use the Platoon feature, we collect and process the following additional information:
 
 Your chosen nickname, which is visible to other platoon members
+
 Your platoon membership status and the group you belong to
+
 Messages and pokes you send to other platoon members, including the message type, your nickname, the recipient's nickname, and a timestamp. These are visible to all members of your platoon and are automatically deleted after 24 hours
+
 Poll votes you cast within your platoon, including which option you selected. Your vote is visible to other platoon members who have also voted
+
 Your last active timestamp within the platoon, visible to other members as a relative time indicator (e.g., "active 2 hours ago")
 
-This data is stored in Firebase Realtime Database and is associated with your device identifier, not your personal identity. Activity messages and polls are ephemeral and are automatically removed after 24 hours by our server-side cleanup process.
+Group chat messages you send within your platoon, including the text content of the message, your nickname, and a timestamp. Chat messages are visible to all members of your platoon and are automatically deleted after 24 hours by our server-side cleanup process
+
+This data is stored in Firebase Realtime Database and is associated with your device identifier, not your personal identity. Activity messages, chat messages, and polls are ephemeral and are automatically removed after 24 hours by our server-side cleanup process.
 
 This data is collected anonymously and is used to enhance your experience within the app, including providing personalized features and exclusive offers.
 
@@ -131,7 +137,7 @@ Device Data. We collect device data such as information about your computer, pho
 <br>
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
-To facilitate social features within the app. We process your information to enable the Platoon feature, including creating and joining groups, sending predefined messages and pokes to other members, creating and voting on polls, and delivering push notifications when another member sends you a message. Push notifications are sent using Firebase Cloud Messaging and require the recipient's FCM token, which is stored in our database. Notifications are only sent to members of your platoon and only in response to in-app actions by other members.
+To facilitate social features within the app. We process your information to enable the Platoon feature, including creating and joining groups, sending predefined messages and pokes to other members, sending and receiving group chat messages, creating and voting on polls, and delivering push notifications when another member sends you a message or chat message. Push notifications are sent using Firebase Cloud Messaging and require the recipient's FCM token, which is stored in our database. Notifications are only sent to members of your platoon and only in response to in-app actions by other members.
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
@@ -189,7 +195,7 @@ Business Transfers. We may share or transfer your information in connection with
 
 Offer Wall. Our application(s) may display a third-party hosted 'offer wall'. Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
-Platoon Members. When you join a platoon, certain information is shared with other members of that platoon, including your nickname, armed force, branch, rank, discharge date, report date, service progress, ESSO, pro subscription status, and last active timestamp. When you send a message or poke, your nickname and the message type are visible to all platoon members through the shared activity feed. When you vote on a poll, your nickname and vote selection are visible to other members who have voted. This sharing is necessary to provide the group functionality of the Platoon feature. When you leave a platoon, your member data is removed from the group. Activity messages and poll votes you made prior to leaving remain visible (with your stored nickname) until they expire after 24 hours.
+Platoon Members. When you join a platoon, certain information is shared with other members of that platoon, including your nickname, armed force, branch, rank, discharge date, report date, service progress, ESSO, pro subscription status, and last active timestamp. When you send a message or poke, your nickname and the message type are visible to all platoon members through the shared activity feed. When you send a group chat message, the text content and your nickname are visible to all platoon members. When you vote on a poll, your nickname and vote selection are visible to other members who have voted. This sharing is necessary to provide the group functionality of the Platoon feature. When you leave a platoon, your member data is removed from the group. Activity messages, chat messages, and poll votes you made prior to leaving remain visible (with your stored nickname) until they expire after 24 hours.
 
 ## 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 <br>
@@ -224,7 +230,7 @@ We may share your information with Google Analytics to track and analyse the use
 <br>
 In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this privacy notice unless otherwise required by law.
 
-Platoon Data Retention. Activity messages (pokes and predefined messages) and polls within platoons are automatically deleted after 24 hours. This cleanup is performed by a scheduled server-side process (Firebase Cloud Function) that runs daily. Your platoon membership data is removed immediately when you leave or are removed from a platoon. If a platoon is dissolved (last member leaves), all associated data including the platoon metadata, invite code, activity history, and polls are permanently deleted.
+Platoon Data Retention. Activity messages (pokes and predefined messages), group chat messages, and polls within platoons are automatically deleted after 24 hours. This cleanup is performed by a scheduled server-side process (Firebase Cloud Function) that runs periodically. Your platoon membership data is removed immediately when you leave or are removed from a platoon. If a platoon is dissolved (last member leaves), all associated data including the platoon metadata, invite code, activity history, chat history, and polls are permanently deleted.
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 

@@ -6,6 +6,7 @@ applovin.com, dceb9d2019b5c5e5bb61069c0f080a42, DIRECT
 onetag.com, 92a441f228da12c, DIRECT
 onetag.com, 92a441f228da12c-OB, DIRECT
 mintegral.com, 52691, DIRECT, 0aeed750c80d6423
+fivecdm.com, 3611916, DIRECT
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
